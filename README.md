@@ -24,7 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Written Program
 ```
 Developed by : Elfreeda Jesusha
 Register number : 212224040084
@@ -64,6 +64,12 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
+
+
 # Output 
 ![image](https://github.com/user-attachments/assets/230d46f3-82cb-485b-8eac-9337dc80a9f9)
+
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
 
